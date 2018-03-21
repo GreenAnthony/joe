@@ -1,0 +1,16 @@
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\bin\Debug\Joes Automotive.exe.config
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\bin\Debug\Joes Automotive.exe
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\bin\Debug\Joes Automotive.pdb
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\obj\Debug\Joes Automotive.csprojResolveAssemblyReference.cache
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\obj\Debug\Joes_Automotive.Form1.resources
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\obj\Debug\Joes_Automotive.Properties.Resources.resources
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\obj\Debug\Joes Automotive.csproj.GenerateResource.Cache
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\obj\Debug\Joes Automotive.csproj.CoreCompileInputs.cache
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\obj\Debug\Joes Automotive.exe
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\obj\Debug\Joes Automotive.pdb
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\obj\Debug\Joes_Automotive.Form2.resources
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\obj\Debug\Joes_Automotive.Form4.resources
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\bin\Debug\Customers.mdf
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\bin\Debug\Customers_log.ldf
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\obj\Debug\Joes_Automotive.Form5.resources
+C:\Users\000121099\source\repos\Joes Automotive\Joes Automotive\obj\Debug\Joes_Automotive.Form3.resources
